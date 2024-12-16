@@ -30,5 +30,4 @@ security:
         - { path: ^/dashboard/admin, roles: ROLE_ADMIN }
         - { path: ^/dashboard/doctor, roles: ROLE_DOCTOR }
         - { path: ^/dashboard/patient, roles: ROLE_PATIENT }
-        - { path: ^/register, roles: ROLE_ADMIN }
 
